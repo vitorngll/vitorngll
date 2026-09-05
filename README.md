@@ -1,77 +1,88 @@
 <div align="center">
 
-<!-- Banner com Nome -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=João%20Vitor%20Rodrigues%20Araújo&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Banner João Vitor" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=190&section=header&text=Jo%C3%A3o%20Vitor%20Rodrigues%20Ara%C3%BAjo&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Engenharia%20de%20Software%20%7C%20Automa%C3%A7%C3%A3o%20e%20Intelig%C3%AAncia%20Artificial&descAlignY=54&descSize=15" width="100%" alt="Banner João Vitor Rodrigues Araújo" />
+
+<a href="https://github.com/joaovitor">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3800&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&height=60&lines=Ol%C3%A1!+Eu+sou+o+Jo%C3%A3o+Vitor;Estudante+de+Engenharia+de+Software;Automa%C3%A7%C3%A3o+de+processos+e+integra%C3%A7%C3%A3o+de+IA;Bem-vindo+ao+meu+reposit%C3%B3rio" alt="Apresentação animada" />
+</a>
 
 <br/>
 
-<!-- Badges de Contato e Status -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
+![Universidade Positivo](https://img.shields.io/badge/Universidade_Positivo-Engenharia_de_Software-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white)
 
-![GitHub Foundations](https://img.shields.io/badge/Trilha-GitHub%20Foundations-2ea44f?style=for-the-badge&logo=github)
-![Curso](https://img.shields.io/badge/Engenharia%20de%20Software-Universidade%20Positivo-blue?style=for-the-badge)
+<br/>
 
-<p align="center">
-  <b>Repositório prático desenvolvido para a disciplina de Design Profissional.</b><br>
-  Consolidação de identidade profissional, práticas de versionamento de código e aplicação do <i>GitHub Flow</i>.
-</p>
+**Repositório prático da disciplina de Design Profissional.**
+
+Consolidação de identidade profissional, práticas de versionamento e aplicação do *GitHub Flow*.
 
 </div>
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o projeto
 
-Este repositório serve como evidência prática do aprendizado adquirido na trilha **GitHub Foundations** (Microsoft Learn). O objetivo é demonstrar o domínio de fluxos de trabalho modernos em desenvolvimento colaborativo, integrando a documentação técnica ao portfólio profissional.
-
----
-
-## 👨‍💻 Perfil Profissional
-
-- 🎓 **Curso:** Bacharelado em Engenharia de Software
-- 📍 **Localização:** São José dos Pinhais, PR – Brasil
-- 🎯 **Foco de Atuação:** Desenvolvimento de Software, Arquitetura de Sistemas, Integração de APIs de Inteligência Artificial e Automação de Processos.
+Este repositório é a evidência prática do aprendizado da trilha **GitHub Foundations** (Microsoft Learn). O objetivo é demonstrar domínio de fluxos de trabalho modernos em desenvolvimento colaborativo, integrando documentação técnica ao portfólio profissional.
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## Perfil profissional
 
-| Categoria | Tecnologias & Ferramentas |
+| | |
 | :--- | :--- |
-| **Linguagem** | `Python` |
-| **Prototipagem & BPMN** | `Figma` (UI/UX Wireframing) • `Lucidchart` (Processos BPMN) |
-| **Automação & IA** | `n8n` • Integração de APIs (`OpenAI`, `Google Gemini`) |
-| **Versionamento & DevOps** | `Git` • `GitHub` (Branches, Pull Requests, Commits) |
+| **Formação** | Bacharelado em Engenharia de Software, Universidade Positivo |
+| **Localização** | São José dos Pinhais, PR, Brasil |
+| **Foco de atuação** | Desenvolvimento de software, arquitetura de sistemas, integração de APIs de IA e automação de processos |
 
 ---
 
-## 🌿 Práticas de Versionamento Aplicadas (Git & GitHub Flow)
+## Stack e ferramentas
 
-Neste repositório foram aplicados os principais conceitos do ecossistema Git/GitHub exigidos na disciplina:
-
-- **Estruturação de Branches:** Separação da branch principal (`main`/`principal`) para manter a estabilidade do código, utilizando branches secundárias para o desenvolvimento de *features*.
-- **Commits Convencionais:** Mensagens de commit organizadas, claras e padronizadas para garantir rastreabilidade.
-- **Pull Requests (PR) & Merge:** Simulação de revisão de código e integração contínua entre branches via interface do GitHub.
-- **Documentação viva:** Manutenção do arquivo `README.md` como guia do projeto.
-
----
-
-## 🏆 Certificações & Conquistas
-
-- **GitHub Foundations (Microsoft Learn)**  
-  *Conceitos de versionamento, fluxo de trabalho do GitHub, branches, pull requests e gerenciamento de repositórios.*
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagem** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Prototipagem e BPMN** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-F76B15?style=flat-square&logo=lucid&logoColor=white) |
+| **Automação e IA** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Versionamento e DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-## 📬 Contato & Conexão
+## Práticas de versionamento aplicadas
 
-Lembre-se de atualizar os links com os seus dados reais:
-- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ara%C3%BAjo-07302234b/)
-- ✉️ **E-mail:** [vitor.ra.102007@gmail.com](mailto:vitor.ra.102007@gmail.com)
+Conceitos do ecossistema Git e GitHub exercitados neste repositório:
+
+**Estruturação de branches**
+Separação da branch principal para manter a estabilidade do código, com branches secundárias dedicadas ao desenvolvimento de *features*.
+
+**Commits convencionais**
+Mensagens organizadas e padronizadas, garantindo rastreabilidade do histórico.
+
+**Pull Requests e merge**
+Revisão de código e integração entre branches pela interface do GitHub.
+
+**Documentação viva**
+Manutenção do `README.md` como guia sempre atualizado do projeto.
+
+---
+
+## Certificações
+
+**GitHub Foundations**, Microsoft Learn
+Versionamento, fluxo de trabalho do GitHub, branches, pull requests e gerenciamento de repositórios.
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ara%C3%BAjo-07302234b/)
+[![E-mail](https://img.shields.io/badge/vitor.ra.102007@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vitor.ra.102007@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido para a disciplina de <b>Design Profissional</b></sub>
+
+<b>Obrigado por visitar meu perfil!</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" alt="" />
+
 </div>
